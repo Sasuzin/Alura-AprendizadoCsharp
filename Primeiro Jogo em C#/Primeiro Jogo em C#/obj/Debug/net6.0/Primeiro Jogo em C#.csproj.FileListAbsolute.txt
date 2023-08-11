@@ -12,3 +12,17 @@ D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\refint\Pr
 D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.pdb
 D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.genruntimeconfig.cache
 D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\ref\Primeiro Jogo em C#.dll
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.exe
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.deps.json
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.runtimeconfig.json
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.dll
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.pdb
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.AssemblyInfoInputs.cache
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.AssemblyInfo.cs
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.csproj.CoreCompileInputs.cache
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.dll
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\refint\Primeiro Jogo em C#.dll
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.pdb
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.genruntimeconfig.cache
+C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\ref\Primeiro Jogo em C#.dll

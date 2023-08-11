@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Nova pasta\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj": {}
+    "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj": {}
   },
   "projects": {
-    "D:\\Nova pasta\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj": {
+    "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Nova pasta\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj",
+        "projectUniqueName": "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj",
         "projectName": "Primeiro Jogo em C#",
-        "projectPath": "D:\\Nova pasta\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj",
+        "projectPath": "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\Primeiro Jogo em C#.csproj",
         "packagesPath": "C:\\Users\\lfeli\\.nuget\\packages\\",
-        "outputPath": "D:\\Nova pasta\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\obj\\",
+        "outputPath": "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Jogo em C#\\Primeiro Jogo em C#\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lfeli\\AppData\\Roaming\\NuGet\\NuGet.Config",
