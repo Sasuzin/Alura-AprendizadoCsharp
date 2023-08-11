@@ -1,0 +1,14 @@
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.exe
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.deps.json
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.runtimeconfig.json
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.dll
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\bin\Debug\net6.0\Primeiro Jogo em C#.pdb
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.GeneratedMSBuildEditorConfig.editorconfig
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.AssemblyInfoInputs.cache
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.AssemblyInfo.cs
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.csproj.CoreCompileInputs.cache
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.dll
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\refint\Primeiro Jogo em C#.dll
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.pdb
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\Primeiro Jogo em C#.genruntimeconfig.cache
+D:\Nova pasta\Primeiro Jogo em C#\Primeiro Jogo em C#\obj\Debug\net6.0\ref\Primeiro Jogo em C#.dll
