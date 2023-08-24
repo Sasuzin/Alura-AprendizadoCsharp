@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {}
+    "C:\\Users\\lfeli\\Alura-PDO-C-Sharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {
+    "C:\\Users\\lfeli\\Alura-PDO-C-Sharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+        "projectUniqueName": "C:\\Users\\lfeli\\Alura-PDO-C-Sharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
         "projectName": "Primeiro Projeto",
-        "projectPath": "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
+        "projectPath": "C:\\Users\\lfeli\\Alura-PDO-C-Sharp\\Primeiro Projeto\\Primeiro Projeto\\Primeiro Projeto.csproj",
         "packagesPath": "C:\\Users\\lfeli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lfeli\\Alura-AprendizadoCsharp\\Primeiro Projeto\\Primeiro Projeto\\obj\\",
+        "outputPath": "C:\\Users\\lfeli\\Alura-PDO-C-Sharp\\Primeiro Projeto\\Primeiro Projeto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lfeli\\AppData\\Roaming\\NuGet\\NuGet.Config",

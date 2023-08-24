@@ -26,3 +26,17 @@ C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Projeto\Primeiro Projeto\obj\Deb
 C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.pdb
 C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.genruntimeconfig.cache
 C:\Users\lfeli\Alura-AprendizadoCsharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\ref\Primeiro Projeto.dll
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net6.0\Primeiro Projeto.exe
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net6.0\Primeiro Projeto.deps.json
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net6.0\Primeiro Projeto.runtimeconfig.json
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net6.0\Primeiro Projeto.dll
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\bin\Debug\net6.0\Primeiro Projeto.pdb
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.AssemblyInfoInputs.cache
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.AssemblyInfo.cs
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.csproj.CoreCompileInputs.cache
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.dll
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\refint\Primeiro Projeto.dll
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.pdb
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\Primeiro Projeto.genruntimeconfig.cache
+C:\Users\lfeli\Alura-PDO-C-Sharp\Primeiro Projeto\Primeiro Projeto\obj\Debug\net6.0\ref\Primeiro Projeto.dll
